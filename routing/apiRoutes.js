@@ -48,7 +48,7 @@ module.exports = function(app) {
         friendsTable.push(you);
         newFriendDetails = friendsTable[newFriend];
         result.json(newFriendDetails);
-
+    
     });
 
 

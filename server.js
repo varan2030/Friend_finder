@@ -13,7 +13,7 @@ var path = require('path');
 // ==============================================================================
 
 var app = express(); // Set up 
-var PORT = process.env.PORT || 8080; 
+var PORT = process.env.PORT || 3000; 
 
 // BodyParser makes it easy for our server to interpret data sent to it.
 // The code below is pretty standard.
