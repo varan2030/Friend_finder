@@ -8,33 +8,33 @@
 
 This screen shows entry screen with the button to begin the survey.
 
-![Image of Start Up Screen](https://github.com/armthepit/Friend-Finder/blob/master/app/public/images/introscreen.JPG?raw=true)
+![Image of Start Up Screen](https://github.com/varan2030/Friend_finder/blob/master/app/data/images/homeScreen.png)
 
 ### Survey 
 
 This is the survey screen.
 
-![Survery](https://github.com/armthepit/Friend-Finder/blob/master/app/public/images/survey1.jpg?raw=true)
-![Survey](https://github.com/armthepit/Friend-Finder/blob/master/app/public/images/survey2.jpg?raw=true)
-![Survey](https://github.com/armthepit/Friend-Finder/blob/master/app/public/images/survey3.jpg?raw=true)
+![Survery](https://github.com/varan2030/Friend_finder/blob/master/app/data/images/survey1.png)
+![Survey](https://github.com/varan2030/Friend_finder/blob/master/app/data/images/survey2.png)
+
 
 ### Error 
 
 This screen shows error when survey not correctly filled out.
 
-![Image of Error](https://github.com/armthepit/Friend-Finder/blob/master/app/public/images/error.jpg?raw=true)
+![Image of Error](https://github.com/varan2030/Friend_finder/blob/master/app/data/images/error.png)
 
 ### Friend
 
 This screen shows your new friend.
 
-![Friend](https://github.com/armthepit/Friend-Finder/blob/master/app/public/images/result.JPG?raw=true)
+![Friend](https://github.com/varan2030/Friend_finder/blob/master/app/data/images/result.png)
 
 ### API Table
 
 This screen shows the json data.
 
-![Friend](https://github.com/armthepit/Friend-Finder/blob/master/app/public/images/apitable.jpg?raw=true)
+![Friend](https://github.com/varan2030/Friend_finder/blob/master/app/data/images/apiTable.png)
 
 ### Stack Used
 	* Node Packages
